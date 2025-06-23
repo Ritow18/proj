@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
+Edson Ristow Junior
+Davis Silva de Araujo
+Rodrigo Rodrigues
+Vitor Silva Brum
+Lucas Martins
+*/
 public class Pedido
 {
     public int Numero { get; set; }
